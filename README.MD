@@ -19,7 +19,7 @@ O jogo termina quando o pássaro colide com um cano
 ## Recursos do Jogo
 
 
-Jogabilidade simples com apenas um botão
+Jogabilidade simples com apenas um botão<br>
 Dificuldade crescente conforme você progride
 Contagem de pontuação
 Efeitos sonoros para batida de asas, pontuação e fim de jogo
