@@ -11,19 +11,19 @@ Flappy Bird é um jogo de rolagem lateral onde o jogador controla um pássaro, t
 ## Como Jogar
 
 
-Pressione ESPAÇO ou clique/toque na tela para fazer o pássaro bater as asas e voar para cima
-Navegue através dos espaços entre os canos
-Cada par de canos ultrapassado com sucesso lhe rende um ponto
-O jogo termina quando o pássaro colide com um cano 
+Pressione ESPAÇO ou clique/toque na tela para fazer o pássaro bater as asas e voar para cima<br>
+Navegue através dos espaços entre os canos<br>
+Cada par de canos ultrapassado com sucesso lhe rende um ponto<br>
+O jogo termina quando o pássaro colide com um cano <br>
 
 ## Recursos do Jogo
 
 
 Jogabilidade simples com apenas um botão<br>
-Dificuldade crescente conforme você progride
-Contagem de pontuação
-Efeitos sonoros para batida de asas, pontuação e fim de jogo
-Design responsivo que funciona em desktop e dispositivos móveis
+Dificuldade crescente conforme você progride<br>
+Contagem de pontuação<br>
+Efeitos sonoros para batida de asas, pontuação e fim de jogo<br>
+Design responsivo que funciona em desktop e dispositivos móveis<br>
 
 
 ## Tecnologias Utilizadas
