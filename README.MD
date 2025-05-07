@@ -35,7 +35,7 @@ Design responsivo que funciona em desktop e dispositivos móveis
   <img align="center" alt="Arthur-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div> 
 
-## Imagens
+## Imagem 1
 
 ![Captura de Tela 1](./img/IMG1.png)
 
@@ -49,7 +49,7 @@ Design responsivo que funciona em desktop e dispositivos móveis
 
 
 
-
+## Imagem 2
 
 
 
