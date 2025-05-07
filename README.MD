@@ -37,5 +37,5 @@ Design responsivo que funciona em desktop e dispositivos móveis
 
 ## Imagens
 
-img/IMG1.png
-img/IMG2.png
+./img/IMG1.png
+
