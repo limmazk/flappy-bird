@@ -40,17 +40,3 @@ Design responsivo que funciona em desktop e dispositivos móveis
 ![Captura de Tela 1](./img/IMG1.png)
 
 
-
-
-
-
-
-
-
-
-
-## Imagem 2
-
-
-
-![Captura de Tela 2](./img/IMG2.png)
